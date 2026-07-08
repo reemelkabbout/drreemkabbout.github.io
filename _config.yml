@@ -60,8 +60,7 @@ plugins:
 # Site Author
 author:
   name   : "Dr. Reem EL Kabbout"
-  bio    : bio: |
-    Biomedical Science | Genomics & Epigenetics | Translational and Clinical Research | Wet-Lab & Bioinformatics Hybrid Scientist <style>.author__bio { display: block !important; }</style>
+  bio    : "|Biomedical Science | Genomics & Epigenetics | Translational and Clinical Research | Wet-Lab & Bioinformatics Hybrid Scientist"
   avatar : "IMG_74k54.jpg"
   location: "Quebec, Canada"
   links:
