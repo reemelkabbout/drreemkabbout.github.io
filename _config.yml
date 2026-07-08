@@ -79,7 +79,19 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=mtKhc0IAAAAJ&hl=en"
-
+      
+author_sidebar_extra: |
+  <div class="sidebar__module">
+    <h4 class="sidebar__title" style="text-transform: uppercase; letter-spacing: 1px; font-size: 0.85em; color: #7a8288; margin-bottom: 8px;">Research Interests</h4>
+    <hr style="margin-top: 0; margin-bottom: 12px; border: 0; border-top: 1px solid #e5e5e5;">
+    <ul style="list-style-type: none; padding-left: 0; margin: 0; font-size: 0.9em; line-height: 1.6;">
+      <li style="margin-bottom: 8px; padding-left: 15px; text-indent: -15px;"><span style="color: #b37d4e; margin-right: 6px;">•</span> Translational Research & Epigenetics</li>
+      <li style="margin-bottom: 8px; padding-left: 15px; text-indent: -15px;"><span style="color: #b37d4e; margin-right: 6px;">•</span> Medical Writing & Scientific Communication</li>
+      <li style="margin-bottom: 8px; padding-left: 15px; text-indent: -15px;"><span style="color: #b37d4e; margin-right: 6px;">•</span> Clinical Research & Digital Health Assets</li>
+      <li style="margin-bottom: 8px; padding-left: 15px; text-indent: -15px;"><span style="color: #b37d4e; margin-right: 6px;">•</span> Bioinformatics & Omics Integration</li>
+      <li style="margin-bottom: 8px; padding-left: 15px; text-indent: -15px;"><span style="color: #b37d4e; margin-right: 6px;">•</span> Cardiovascular & Pulmonary Disease</li>
+    </ul>
+  </div>
 
 footer:
   links: []
@@ -112,6 +124,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+
 
 category_archive:
   type: liquid
